@@ -1,2 +1,4 @@
 # hello-world
-My First Repo
+Hi Friends, I am really new here, just learning how to use GitHub
+Best Regards
+Erik
